@@ -1,0 +1,28 @@
+﻿  C:freeglut.dll
+  C:glew32.dll
+  C:glew32s.dll
+  3 File(s) copied
+  C:glfw3.dll
+  C:glfw3dll.dll
+  C:glfw3_mt.dll
+  3 File(s) copied
+  C:SOIL.dll
+  1 File(s) copied
+  Planete.cpp
+C:\Users\barbu\Desktop\Grafica\Sistem solar\Sistem solar\Planete.cpp(46,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\barbu\Desktop\Grafica\Sistem solar\Sistem solar\Planete.cpp(60,12): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\barbu\Desktop\Grafica\Sistem solar\Sistem solar\Planete.cpp(63,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\barbu\Desktop\Grafica\Sistem solar\Sistem solar\Planete.cpp(271,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\barbu\Desktop\Grafica\Sistem solar\Sistem solar\Planete.cpp(396,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\barbu\Desktop\Grafica\Sistem solar\Sistem solar\Planete.cpp(408,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\barbu\Desktop\Grafica\Sistem solar\Sistem solar\Planete.cpp(420,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\barbu\Desktop\Grafica\Sistem solar\Sistem solar\Planete.cpp(439,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\barbu\Desktop\Grafica\Sistem solar\Sistem solar\Planete.cpp(455,22): warning C4305: '+=': truncation from 'double' to 'float'
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB '' was not found with 'SOIL.lib(SOIL.obj)' or at ''; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB '' was not found with 'SOIL.lib(stb_image_aug.obj)' or at ''; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB '' was not found with 'SOIL.lib(image_helper.obj)' or at ''; linking object as if no debug info
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB '' was not found with 'SOIL.lib(image_DXT.obj)' or at ''; linking object as if no debug info
+  Sistem solar.vcxproj -> C:\Users\barbu\Desktop\Grafica\Sistem solar\x64\Debug\Sistem solar.exe
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
